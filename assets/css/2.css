@@ -1,0 +1,15 @@
+.imagen {
+    height: 300px;
+    width: 300px;
+}
+section {
+    display: flex;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card input {
+    width: 100px;
+}
